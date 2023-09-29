@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, My name is Léna
+#### I'm a baby dev studying
 
-<!--
-**LenaGonzalezBreton/LenaGonzalezBreton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  HTML / CSS / SQL / .NET / C# / JS 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on the new software of my company 
+- 🌱 I’m currently learning Transat SQL and VueJS 
+- 📫 How to reach me: You can mail me here lena.gonzalezbreton@proton.me 
+- 😄 Pronouns: She/her 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
