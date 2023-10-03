@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Léna
 
-#### I'm a baby dev studying
+#### Baby Dev Fullstack
 
 - 🔭 I’m currently working on the software of my company 
 - 🌱 I’m currently learning Transat SQL and VueJS 
