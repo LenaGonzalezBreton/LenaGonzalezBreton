@@ -2,12 +2,17 @@
 
 #### I'm a baby dev studying
 
-Skills:  HTML / CSS / SQL / .NET / C# / JS 
+# Skills:  
+*💻 HTML / CSS / JS / PHP
+*💽 SQL / TSQL
+*📱​ VB /.NET / C#
 
-- 🔭 I’m currently working on the new software of my company 
+- 🔭 I’m currently working on the software of my company 
 - 🌱 I’m currently learning Transat SQL and VueJS 
 - 📫 How to reach me: You can mail me here lena.gonzalezbreton@proton.me 
-- 😄 Pronouns: She/her 
+- 😄 Pronouns: She/her
+
+
 
 ### Statistiques :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LenaGonzalezBreton)](https://github.com/anuraghazra/github-readme-stats)
