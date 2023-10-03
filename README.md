@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Léna
- ![Code and development](https://github.com/LenaGonzalezBreton/LenaGonzalezBreton/blob/main/Group%202.png"Banner")
+ ![Code and development](https://github.com/LenaGonzalezBreton/LenaGonzalezBreton/blob/main/Group%202.png "Banner")
 #### Baby Dev Fullstack
 
 - 🔭 I’m currently working on the software of my company 
