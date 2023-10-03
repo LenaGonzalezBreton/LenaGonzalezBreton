@@ -1,4 +1,5 @@
 ### Hi there 👋, My name is Léna
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LenaGonzalezBreton=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 #### I'm a baby dev studying
 
 Skills:  HTML / CSS / SQL / .NET / C# / JS 
