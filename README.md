@@ -6,8 +6,8 @@ A baby dev fullstack
 
 * 🌍  I'm based in Vesoul FRANCE
 * ✉️  You can contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
-* 🚀  I'm currently working on [the internal software of my company](http://www.euroserum.com/)
-* 🧠  I'm learning C# and VueJS
+* 🚀  Working on [the software of my company](http://www.euroserum.com/)
+* 🧠  Currently learning C# and VueJS
 * ⚡  I'm also trying to be a good streamer but don't tell anyone ;)
 
 ### Skills
