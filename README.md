@@ -8,7 +8,7 @@ A baby dev fullstack
 * ✉️  You can contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
 * 🚀  I'm currently working on [the internal software of my company](http://www.euroserum.com/)
 * 🧠  I'm learning C# and VueJS
-* ⚡  I'm also trying to be a good streamer but don't tell anyone ;)
+* ⚡  Friends call me Didier ;)
 
 <a href="https://www.x.com/LeDidDev" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/LeDidDev?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
