@@ -7,7 +7,7 @@ A baby dev fullstack
 * 🌍  I'm based in Vesoul FRANCE
 * ✉️  You can contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
 * 🚀  I'm currently working on [the internal software of my company](http://www.euroserum.com/)
-* 🧠  I'm learning C# and VueJS
+* 🧠  I'm learning JS and VueJS
 * ⚡  Friends call me Didier ;)
 
 <a href="https://www.x.com/LeDidDev" target="_blank" rel="noreferrer"><img
