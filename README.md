@@ -10,10 +10,6 @@ A baby dev fullstack
 * 🧠  I'm learning JS and VueJS
 * ⚡  Friends call me Didier ;)
 
-<a href="https://www.x.com/LeDidDev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/LeDidDev?logo=twitter&style=for-the-badge&color=ef4444&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/LeDidStream" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/LeDidStream?logo=twitchsx&style=for-the-badge&color=ef4444&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 # 💻 Tech Stack:
 
