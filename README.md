@@ -4,10 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A junior dev 
 --------------------
 # 💫 About Me:
-* 🌍  I'm based in Vesoul FRANCE
-* ✉️  You can contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
-* 🚀  I'm currently working on [the internal software of my company](http://www.euroserum.com/)
-* 🧠  I'm learning JS and VueJS
+* 🌍  Based in Nancy FRANCE
+* 🧠  Epitech - Nancy Student
+* ✉️  Contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
 * ⚡  Friends call me Didier ;)
 
 
