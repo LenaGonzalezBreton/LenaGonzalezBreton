@@ -9,6 +9,14 @@ A junior dev
 * ✉️  Contact me at [lena.gonzalezbreton@proton.me](mailto:lena.gonzalezbreton@proton.me)
 * ⚡  Friends call me Didier ;)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/LenaGonzalezBreton"
+  width="600"
+  height="300"
+/>
+</a>
+
 
 # 💻 Tech Stack:
 
