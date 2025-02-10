@@ -53,7 +53,7 @@
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git"/></a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub"/></a>
-  <a href="https://insomnia.rest/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original-wordmark.svg" width="36" height="36" alt="Insomnia"/></a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/></a>
   <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="PhpStorm"/></a>
  </p>
 
