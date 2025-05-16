@@ -5,9 +5,9 @@
 
 ## 💫 About Me:
 - 🎓 Student at Epitech Nancy
-- 🌱 Currently learning Node.js and ThreeJS
-- 💼 Working on Only Femmes – An IRC platform exclusively for women to discuss topics that matter to them.
-- 🤝 Open to collaborating on design projects, showcase websites, or branding.
+- 🌱 Currently learning concepts of devops (docker, networking and kub)
+- 💼 Working on FitMe – A mobile app to store your fitness program, and make a real tracking.
+- 🤝 Open to collaborate on design projects, showcase websites, or branding.
 - 📫 How to reach me: lena.gbreton@proton.me
 - ⚡ Fun fact: My friends call me Didier (or Didou)
 
