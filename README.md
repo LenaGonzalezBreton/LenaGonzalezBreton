@@ -5,11 +5,17 @@
 
 ## 💫 About Me:
 - 🎓 Student at Epitech Nancy
-- 🌱 Currently learning concepts of devops (docker, networking and kub)
-- 💼 Working on FitMe – A mobile app to store your fitness program, and make a real tracking.
-- 🤝 Open to collaborate on design projects, showcase websites, or branding.
-- 📫 How to reach me: lena.gbreton@proton.me
+- 🌱 Currently learning DevOps fundamentals (docker, networking and kub)
+- 💼 Currently working on:
+  - FitMe – A mobile app to generate and track your personal fitness program as a woman.
+  - A smart OPC stack processor for industrial automation (C#/.NET + SQL Server).
 - ⚡ Fun fact: My friends call me Didier (or Didou)
+- 🌸 Leader of Soror'IT – a community supporting women in tech through events and resources.
+- 🤝 Open to collaborate on design projects, showcase websites, or branding.
+- 📫 Contact: lena.gbreton@proton.me
+
+## 🛠️ Current Stack
+React Native · C#/.NET · SQL Server · TailwindCSS · Docker · Git
 
 ## ✨ Skills :
 
@@ -81,7 +87,7 @@
 
 <a href="http://www.github.com/LenaGonzalezBreton"><img src="https://github-readme-stats.vercel.app/api?username=LenaGonzalezBreton&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="LenaGonzalezBreton's GitHub stats" /></a>
 
-<a href="https://github.com/LenaGonzalezBreton" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LenaGonzalezBreton&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
-
+_🧡 Made with love, coffee, and a bit of chaos · Léna_
 
