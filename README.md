@@ -1,93 +1,76 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Lena banner"/>
+</p>
 # Hi, I'm Léna ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
+### Fullstack & Mobile Developer — Using tech to serve people and improve business performance
 
-### Fullstack Developer & Design Enthusiast
+## 💫 About Me
+- 🎓 Student at **Epitech Nancy**
+- 🔧 I build solutions that enhance **human experience** and **operational performance**
+- 🌱 Currently learning **DevOps fundamentals** (Docker, networking, CI/CD)
+- 🧠 I see technologies as **tools** — not identities. I choose the stack that solves the problem.
+- ✊ Founder of **Soror'IT**, supporting women in tech through events & resources
+- ⚡ Fun fact: my friends call me **Didier** (or **Didou**)
+- 🤝 Open to collaboration on impactful tools & modern web/mobile projects
+- 📫 Contact: **lena.gbreton@proton.me**
 
-## 💫 About Me:
-- 🎓 Student at Epitech Nancy
-- 🌱 Currently learning DevOps fundamentals (docker, networking and kub)
-- 💼 Currently working on:
-  - FitMe – A mobile app to generate and track your personal fitness program as a woman.
-  - A smart OPC stack processor for industrial automation (C#/.NET + SQL Server).
-- ⚡ Fun fact: My friends call me Didier (or Didou)
-- 🌸 Leader of Soror'IT – a community supporting women in tech through events and resources.
-- 🤝 Open to collaborate on design projects, showcase websites, or branding.
-- 📫 Contact: lena.gbreton@proton.me
+---
 
-## 🛠️ Current Stack
-React Native · C#/.NET · SQL Server · TailwindCSS · Docker · Git
+# 💻 Tech Stack  
+*(Tools I enjoy learning & using because good engineering is about solving problems, not worshipping languages.)*
 
-## ✨ Skills :
+### **Languages**
+C# · CSS3 · Java · JavaScript · HTML5 · Markdown · PHP · TypeScript · Dart
 
-#### 💻 Programming Languages
+### **Frontend / Mobile**
+React · Next.js · React Native · Flutter · Expo · TailwindCSS · Vite · Vue.js · Three.js · Bootstrap
+
+### **Backend / API**
+NodeJS · Express.js · NestJS · Laravel · Symfony · .NET · Nginx · Apache
+
+### **Databases & Storage**
+MySQL · MariaDB · PostgreSQL · Microsoft SQL Server · MongoDB · Redis · Supabase · Firebase · Prisma
+
+### **DevOps & Tools**
+Docker · GitHub Actions · GitLab · Git · Jenkins · Jira · Notion · Postman · Trello · Vercel
+
+### **Design & Creative Tools**
+Figma · Framer · Canva · Blender · Dribbble
+
+### **Testing**
+Jest · Cypress · Vitest
+
+### **Game / 3D**
+Unity · Unreal Engine
+
+---
+
+## 🌐 Socials
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="36" height="36" alt="PHP"/></a>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="36" height="36" alt="Python"/></a>
-  <a href="https://www.csharp.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="36" height="36" alt="C++"/></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="36" height="36" alt="Bash"/></a>
+  <a href="https://www.linkedin.com/in/lenagonzalezbreton/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36"/>
+  </a>
 </p>
 
-#### 🌐 Frontend Development
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="36" height="36" alt="React JS"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="36" height="36" alt="Tailwind CSS"/></a>
-  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="36" height="36" alt="Vite.js"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="36" height="36" alt="HTML5"/></a>
-  <a href="https://threejs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original-wordmark.svg" width="36" height="36" alt="Threejs"/></a>
-</p>
+---
 
-#### ⚙️ Backend Development
-<p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="36" height="36" alt="Laravel"/></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="36" height="36" alt="Express"/></a>
-  <a href="https://nodejs.org/fr" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="36" height="36" alt="Node JS"/></a>
-</p>
+# 📊 Stats
 
-#### 🗄️ Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="36" height="36" alt="MongoDB"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL"/></a>
-  <a href="https://www.microsoft.com/fr-fr/sql-server/sql-server-2022" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="36" height="36" alt="SQL SERVER"/></a>
-  
-#### 🛠️ DevOps & Tools
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="36" height="36" alt="Docker"/></a>
-
-#### 📦 Development Tools
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="36" height="36" alt="Git"/></a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="36" height="36" alt="GitHub"/></a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="36" height="36" alt="Postman"/></a>
-  <a href="https://www.jetbrains.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="36" height="36" alt="PhpStorm"/></a>
- </p>
-
-## 🌐 Socials:
-<p align="left">
-  <a href="https://www.linkedin.com/in/lenagonzalezbreton/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="Linkedin" />
-</p>
-
-## 📊 Stats
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=LenaGonzalezBreton&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-
 ---
+
 [![](https://visitcount.itsvg.in/api?id=LenaGonzalezBreton&icon=7&color=7)](https://visitcount.itsvg.in)
+
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/LenaGonzalezBreton"
   width="600"
-  height="300"
 />
 </a>
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/LenaGonzalezBreton"><img src="https://github-readme-stats.vercel.app/api?username=LenaGonzalezBreton&show_icons=true&hide=contribs&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="LenaGonzalezBreton's GitHub stats" /></a>
-
 ---
 
-_🧡 Made with love, coffee, and a bit of chaos · Léna_
-
+_🧡 Made with love, matcha, and very good cookies · Léna_
