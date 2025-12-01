@@ -1,6 +1,7 @@
 <p align="center">
   <img src="banner.png" width="100%" alt="Lena banner"/>
 </p>
+
 # Hi, I'm Léna ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
 ### Fullstack & Mobile Developer — Using tech to serve people and improve business performance
