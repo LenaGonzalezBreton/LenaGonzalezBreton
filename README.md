@@ -34,10 +34,6 @@ Using uploads as events lets processing start as new content arrives, with no sc
 
 Experimenting with networking, infrastructure and self-hosted services on Raspberry Pi. Because apparently, having a perfectly functional home network isn't enough.
 
-### Other projects
-
-- [NuitInfo](https://github.com/LittleMoonie/NuitInfo) · Team project for Nuit de l’Info 2024.
-
 ## Technical stack
 
 
