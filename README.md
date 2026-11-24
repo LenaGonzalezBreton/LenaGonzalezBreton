@@ -44,6 +44,13 @@ Designing a serverless, event-driven architecture on AWS to automate content cre
 
 
 ```mermaid
+---
+config:
+  flowchart:
+    wrappingWidth: 320
+    rankSpacing: 24
+    padding: 10
+---
 flowchart TD
     Upload["Content upload<br/>Images · Metadata · Templates"]
     S3["Amazon S3<br/>Object storage · Event trigger"]
