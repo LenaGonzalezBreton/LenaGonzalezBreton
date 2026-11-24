@@ -43,33 +43,7 @@ I see technologies as tools, not identities. I enjoy choosing the right stack fo
 Designing a serverless, event-driven architecture on AWS to automate content creation and social media publishing.
 
 
-```mermaid
----
-config:
-  flowchart:
-    wrappingWidth: 320
-    rankSpacing: 24
-    padding: 10
----
-flowchart TD
-    Upload("Content upload<br/>Images · Metadata · Templates")
-    S3("Amazon S3<br/>Object storage · Event trigger")
-    Lambda("AWS Lambda + AI<br/>Processing · Rendering · Caption")
-    Instagram("Instagram Graph API<br/>Automated publishing")
-
-
-    Upload --> S3 --> Lambda --> Instagram
-
-
-    classDef step fill:#2f2720,stroke:#b97435,color:#f4ede6
-    class Upload,S3,Lambda,Instagram step
-```
-
-
-`AWS` · `Serverless` · `Event-driven` · `AI` · `Automation` · `IaC`
-
-
-*Target architecture · Project in development*
+<img src="./instagram-architecture.svg" width="400" alt="Planned Instagram automation architecture. Content upload triggers Amazon S3, then AWS Lambda and AI process the content and generate a caption before publishing through the Instagram Graph API.">
 
 
 **Homelab & self-hosting**
