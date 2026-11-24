@@ -52,10 +52,10 @@ config:
     padding: 10
 ---
 flowchart TD
-    Upload["Content upload<br/>Images · Metadata · Templates"]
-    S3["Amazon S3<br/>Object storage · Event trigger"]
-    Lambda["AWS Lambda + AI<br/>Processing · Rendering · Caption"]
-    Instagram["Instagram Graph API<br/>Automated publishing"]
+    Upload("Content upload<br/>Images · Metadata · Templates")
+    S3("Amazon S3<br/>Object storage · Event trigger")
+    Lambda("AWS Lambda + AI<br/>Processing · Rendering · Caption")
+    Instagram("Instagram Graph API<br/>Automated publishing")
 
 
     Upload --> S3 --> Lambda --> Instagram
