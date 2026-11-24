@@ -1,77 +1,49 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Lena banner"/>
-</p>
+# Hey, I'm Léna! 👋
 
-# Hi, I'm Léna ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### Software Development · Cloud & DevOps · Architecture
 
-### Fullstack & Mobile Developer — Using tech to serve people and improve business performance
+I'm a software developer with a growing interest in cloud infrastructure, system architecture and automation.
 
-## 💫 About Me
-- 🎓 Student at **Epitech Nancy**
-- 🔧 I build solutions that enhance **human experience** and **operational performance**
-- 🌱 Currently learning **DevOps fundamentals** (Docker, networking, CI/CD)
-- 🧠 I see technologies as **tools** — not identities. I choose the stack that solves the problem.
-- ✊ Founder of **Soror'IT**, supporting women in tech through events & resources
-- ⚡ Fun fact: my friends call me **Didier** (or **Didou**)
-- 🤝 Open to collaboration on impactful tools & modern web/mobile projects
-- 📫 Contact: **lena.gbreton@proton.me**
+I love designing systems, building products from scratch and automating things that probably didn't need to be automated in the first place.
 
----
+## About me
 
-# 💻 Tech Stack  
-*(Tools I enjoy learning & using because good engineering is about solving problems, not worshipping languages.)*
+- 💻 Currently working @ Vosgelis — software development, troubleshooting, IT architecture and technical decision-making.
+- 🎓 MSc in Cloud & Cybersecurity @ Epitech, with a focus on Cloud & DevOps.
+- ☁️ Currently learning AWS, Kubernetes, Terraform and Ansible.
+- 🛠️ Working towards a career in Cloud & DevOps engineering, with a long-term interest in architecture.
+- ⚡ Women in Tech advocate, founder of Soror'IT and regular attendee of tech events.
 
-### **Languages**
-C# · CSS3 · Java · JavaScript · HTML5 · Markdown · PHP · TypeScript · Dart
+I see technologies as tools, not identities. I enjoy choosing the right stack for the problem rather than adapting the problem to the stack.
 
-### **Frontend / Mobile**
-React · Next.js · React Native · Flutter · Expo · TailwindCSS · Vite · Vue.js · Three.js · Bootstrap
+## Technical stack
 
-### **Backend / API**
-NodeJS · Express.js · NestJS · Laravel · Symfony · .NET · Nginx · Apache
+| | Technologies |
+|---|---|
+| Languages | C#, PHP, JavaScript, TypeScript, SQL |
+| Development | .NET, Laravel, Vue.js, React |
+| Databases | MySQL, PostgreSQL, SQL Server |
+| Systems & DevOps | Linux, Docker, Git, GitHub Actions, CI/CD |
+| Currently learning | AWS, Kubernetes, Terraform, Ansible |
 
-### **Databases & Storage**
-MySQL · MariaDB · PostgreSQL · Microsoft SQL Server · MongoDB · Redis · Supabase · Firebase · Prisma
+## Side projects
 
-### **DevOps & Tools**
-Docker · GitHub Actions · GitLab · Git · Jenkins · Jira · Notion · Postman · Trello · Vercel
+**AI-powered content automation**
 
-### **Design & Creative Tools**
-Figma · Framer · Canva · Blender · Dribbble
+Designing a serverless, event-driven architecture on AWS to automate content creation and social media publishing.
 
-### **Testing**
-Jest · Cypress · Vitest
+**Homelab & self-hosting**
 
-### **Game / 3D**
-Unity · Unreal Engine
+Experimenting with networking, infrastructure and self-hosted services on Raspberry Pi. Because apparently, having a perfectly functional home network isn't enough.
 
----
+## Beyond tech
 
-## 🌐 Socials
-<p align="left">
-  <a href="https://www.linkedin.com/in/lenagonzalezbreton/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="36"/>
-  </a>
-</p>
+I'm an outdoor enthusiast, whitewater kayaker, skier, horse rider, gamer and traveller.
 
----
+Apparently, debugging isn't enough adrenaline for me.
 
-# 📊 Stats
+I'm also passionate about making the tech industry more inclusive and encouraging more women to pursue technical careers.
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LenaGonzalezBreton&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## Let's connect
 
----
-
-[![](https://visitcount.itsvg.in/api?id=LenaGonzalezBreton&icon=7&color=7)](https://visitcount.itsvg.in)
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/LenaGonzalezBreton"
-  width="600"
-/>
-</a>
-
----
-
-_🧡 Made with love, matcha, and very good cookies · Léna_
+[LinkedIn](https://www.linkedin.com/in/lenagonzalezbreton/) · [Portfolio](https://lenagonzalezbreton.fr/) · [Email](mailto:lena.gbreton@proton.me)
