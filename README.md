@@ -18,17 +18,6 @@ I see technologies as tools, not identities. I enjoy choosing the right stack fo
 
 ## Side projects
 
-
-### AI-powered content automation
-
-Designing a serverless, event-driven architecture on AWS to automate content creation and social media publishing.
-
-
-<img src="./instagram-architecture.svg" width="400" alt="Planned Instagram automation architecture. Content upload triggers Amazon S3, then AWS Lambda and AI process the content and generate a caption before publishing through the Instagram Graph API."> 
-
-Using uploads as events lets processing start as new content arrives, with no scheduled polling.
-
-
 ### Homelab & self-hosting
 
 
